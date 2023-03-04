@@ -4,7 +4,7 @@
 -Tag command used for tagging EC2 instance for each environment.
 -Don t forget to fill the necessary security credentials in the provider section. It s deleted from my code block because of security issues. 
 
-![Alt text](C/terraform/terraform-workspaces/worksapces.png "created instances")
+![workspaces](https://user-images.githubusercontent.com/95598307/222879137-6145e569-09ac-48bf-92fd-61c87dbf9b64.png)
 
 #Bash commands 
 -terraform workspace new dev (for creating dev environment)
